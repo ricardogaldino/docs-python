@@ -1,2 +1,1 @@
-# docs-python
-Python
+# Python
